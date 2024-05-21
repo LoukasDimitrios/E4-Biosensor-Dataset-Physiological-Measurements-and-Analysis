@@ -16,7 +16,7 @@ Keywords:
 
 The project involves the analysis of physiological responses and behavioral patterns of participants engaged in a cooperative task as said above. The study uses various data analysis techniques, including:
 
-* Self-Organizing Maps (SOM):
+- **Self-Organizing Maps (SOM):**
 
 ** Two SOM representations
 ** The SOMs are visualized using a U-matrix to show the distance between neurons, with longer distances indicating more dissimilarity.
