@@ -19,18 +19,18 @@ The project involves the analysis of physiological responses and behavioral patt
 - **Self-Organizing Maps (SOM):**
 
   - Two SOM representations
- - The SOMs are visualized using a U-matrix to show the distance between neurons, with longer distances indicating more dissimilarity.
+  - The SOMs are visualized using a U-matrix to show the distance between neurons, with longer distances indicating more dissimilarity.
 
 - **Time Series Analysis Using Principal Component Analysis (PCA):**
 
- - PCA is applied to the time series data of participants.
- - The first principal component (PC1) scores are analyzed across four acquisition rounds.
- - Fluctuations in PC1 scores are observed, with some variations correlating with different phases of the task, particularly during stress-inducing puzzle phases.
+  - PCA is applied to the time series data of participants.
+  - The first principal component (PC1) scores are analyzed across four acquisition rounds.
+  - Fluctuations in PC1 scores are observed, with some variations correlating with different phases of the task, particularly during stress-inducing puzzle phases.
 
 - **Clustering Techniques:**
 
- - K-means clustering and spectral clustering (SC) are used to identify patterns in physiological and questionnaire data.
- - The clustering results indicate that physiological responses form distinct clusters different from those formed by questionnaire responses.
+  - K-means clustering and spectral clustering (SC) are used to identify patterns in physiological and questionnaire data.
+  - The clustering results indicate that physiological responses form distinct clusters different from those formed by questionnaire responses.
 
 
 ## Conclusions:
