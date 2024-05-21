@@ -3,7 +3,7 @@ The aim of our project was to conduct an exploratory (unsupervised) analysis of 
 
 -------------------------------------
 
-# Dataset Description
+# Project Description
 
 ![Page 1](case2_data_description_page-0001.jpg)
 ![Page 2](case2_data_description_page-0002.jpg)
