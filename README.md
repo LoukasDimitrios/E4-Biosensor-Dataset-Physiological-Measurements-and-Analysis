@@ -5,4 +5,6 @@ The aim of our project was to conduct an exploratory (unsupervised) analysis of 
 Dataset Description
 
 ![Page 1](case2_data_description_page-0001.jpg)
-![Page 2]()
+![Page 2](case2_data_description_page-0002.jpg)
+![Page 3](case2_data_description_page-0003.jpg)
+![Page 4](case2_data_description_page-0004.jpg)
