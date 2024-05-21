@@ -18,7 +18,7 @@ The project involves the analysis of physiological responses and behavioral patt
 
 - **Self-Organizing Maps (SOM):**
 
- - Two SOM representations
+  - Two SOM representations
  - The SOMs are visualized using a U-matrix to show the distance between neurons, with longer distances indicating more dissimilarity.
 
 - **Time Series Analysis Using Principal Component Analysis (PCA):**
